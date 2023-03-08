@@ -135,6 +135,7 @@ width: 50vw;
 }
 }
 p{
+    background: white;
     color: white;
     font-size: 900;
     font-family: 'Courier New', Courier, monospace;
