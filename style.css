@@ -134,3 +134,10 @@ width: 50vw;
     width: 90%;
 }
 }
+p{
+    color: white;
+    font-size: 900;
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: none;
+    text-align: center;
+}
